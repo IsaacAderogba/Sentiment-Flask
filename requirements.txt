@@ -8,3 +8,6 @@ pandas
 numpy
 sklearn
 flask-cors
+requests
+nltk
+statistics
